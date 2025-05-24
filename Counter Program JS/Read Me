@@ -3,3 +3,6 @@ Then install the Live server Extention.
 Once it's intalled, Click on Go Live on the right down at the buttom. And you should be redirected to your browser
 where you will see the project execution.
 
+
+Description about the Counter Program JS:
+The project let you increase, decrease or reset the number you see on the middle of your browser screen.
