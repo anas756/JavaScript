@@ -1,0 +1,40 @@
+body{
+    font-family: arial, sans-serif;
+    background-color: hsl(0, 0%, 95%);
+}
+form{
+    text-align: center;
+    background-color: hsl(0, 0%, 100%);
+    max-width: 350px;
+    margin: auto;
+    padding: 20px;
+    box-shadow: 5px 5px 15px hsl(0, 0%, 0%, 0.3);
+}
+h3{
+    color: hsl(222, 88%, 55%);
+    font-size: 1.7em;
+}
+#number{
+    font-size: 1.7em;
+    max-width: 50%;
+    margin-bottom: 15px;
+    text-align: center;
+    border: 2px solid hsl(0, 4%, 21%);
+    border-radius: 5px;
+}
+button{
+    margin-top: 20px;
+    font-size: 1.3em;
+    padding: 10px 15px;
+    background-color: hsl(0, 100%, 50%);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#result{
+    font-size: 1.7em;
+}
+#button:hover{
+    background-color: hsl(0, 100%, 40%);
+}
