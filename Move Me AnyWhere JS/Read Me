@@ -1,1 +1,9 @@
+- To run this, Open any video editor you have in my case I'm using VSCode.
+- Then install the Live server Extention.
+- Once it's intalled, Click on Go Live on the right down at the buttom. And you should be redirected to your browser
+where you will see the project execution.
 
+
+Description about the Move Me AnyWhere JS:
+-You can move the box anywhere you want. And note that you have to click on the box then move it with you arrowKeys on your
+keyboard to see the effect.
